@@ -29,6 +29,8 @@ along with DevCaps. If not, see https://www.gnu.org/licenses/gpl.html.
 defined( 'ABSPATH' ) or die( 'No script kiddies please!' );
 
 function cap_program_name( $content ) {
+
+    // note to self: accord for extension
     return str_replace(
         array( 'test'),
         array( 'Test' ),
