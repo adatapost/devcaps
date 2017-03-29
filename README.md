@@ -8,4 +8,4 @@ It's a WordPress Plugin, so... PHP.
 
 ## Screenshot
 The plugin at action. The left side of the arrow was all in lower case when I entered it at the editor.:
-<kbd>![Corrected names](https://github.com/amychan331/devcaps/blob/master/assets/screen-shot1.png)</kbd>
+<kbd>![Corrected names](https://github.com/amychan331/devcaps/blob/master/assets/screen-shot01.png)</kbd>
