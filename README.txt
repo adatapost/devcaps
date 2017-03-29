@@ -12,7 +12,11 @@ Plugin to correctly capitalize programming language for tech bloggers.
 
 == Description ==
 
-Well, most of know that WordPress automatically capitize its own name via the function "capital_P_dangit". As developer, there are a lot of programming languages where the name have unusual capitalization. This plugin helps with that.
+Well, most of know that WordPress automatically capitize its own name via the function "capital_P_dangit". As developer who blog, there are a lot of programming languages where the name have unusual capitalization. This plugin helps with that.
+
+The plugin replaces incorrectly captalized names with the right capitalization before the content get printed in the screen. Note that it does not change your input at the editor, allowing you to keep your original content.
+
+Some programming language have same name as their own file extensions, such as html and php. The program should filter out those that are extensions due to the presence of a dot.
 
 == Installation ==
 
@@ -26,15 +30,11 @@ Well, most of know that WordPress automatically capitize its own name via the fu
 
 = It's not correcting my spelling. =
 
-This plugin only correct capitalization. It is not a spell checker
+This plugin only correct capitalization. It is not a spell checker.
 
 == Screenshots ==
+1. The plugin at action. The left side of the arrow was all in lower case when I entered it at the editor.
 
-1. This screen shot description corresponds to screenshot-1.(png|jpg|jpeg|gif). Note that the screenshot is taken from
-the /assets directory or the directory that contains the stable readme.txt (tags or trunk). Screenshots in the /assets
-directory take precedence. For example, `/assets/screenshot-1.png` would win over `/tags/4.3/screenshot-1.png`
-(or jpg, jpeg, gif).
-2. This is the second screen shot
 
 == Changelog ==
 
